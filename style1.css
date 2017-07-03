@@ -1,0 +1,14 @@
+body{
+	background-color: #d5cccc;
+}
+.form{
+	margin: 25px 84px 25px 218px;
+padding: 25px 20px 25px 25px;
+
+text-align: center;
+background:url('sig3.jpg')  no-repeat;
+}
+input[type="submit"]{
+	color: #322929;
+background: transparent;
+}

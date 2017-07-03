@@ -1,0 +1,47 @@
+/* styling the  ui list*/
+
+ul{
+	list-style-type:none;
+	
+	margin:25px 350px 20px 350px;
+	padding:25px;
+	
+}
+/* nav with position fixed*/
+nav{
+	position:fixed;
+	top:0;
+	background-color:black;
+	width:100%;
+	
+}
+li,a {
+	float:left;
+text-decoration:none;
+	padding: 2px;
+	margin:6px;
+	color: white;
+}
+/* background  image  style*/
+body{
+	background-image:url('back.jpg');
+}
+/* styles for box for scroll*/
+
+.box1{
+	 margin-top: 200px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+	color:white;
+	border: 3px solid white;
+	padding:25px;
+    
+ 
+}
+p{
+	text-align:justify;
+}
+.box1:hover{
+	color:red;
+}
